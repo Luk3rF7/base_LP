@@ -1,4 +1,4 @@
-@media (max-width: 800px) {
+@media (width: 800vw) {
   .intro-content,
   .grid {
     grid-template-columns: 1fr;
