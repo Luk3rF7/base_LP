@@ -1,0 +1,21 @@
+:root {
+  --primary-color: #0a1128;
+  --white-color: #ffffff;
+  --light-gray-color: #eeeeee;
+  --gap: 3rem;
+}
+.red {
+  background: rgb(248, 123, 123);
+}
+.green {
+  background-color: rgb(169, 241, 169);
+}
+.yellow {
+  background-color: rgb(238, 238, 137);
+}
+.blue {
+  background-color: aqua;
+}
+.grey {
+  background-color: rgb(189, 186, 186);
+}
